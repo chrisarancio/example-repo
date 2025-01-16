@@ -1,0 +1,27 @@
+{
+    "id": "2A9DF1DF",
+    "path": "~/Documents/GitHub/example-repo/class_example.R",
+    "project_path": "class_example.R",
+    "type": "r_source",
+    "hash": "3721842025",
+    "contents": "",
+    "dirty": false,
+    "created": 1737059054245.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1737059259,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1737059259021,
+    "read_only": false,
+    "read_only_alternatives": []
+}
